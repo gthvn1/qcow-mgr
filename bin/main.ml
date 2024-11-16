@@ -1,2 +1,1 @@
-let () = 
-  Qcow.Hello.say "world"
+let () = print_endline @@ Qcow.Hello.say "world"
