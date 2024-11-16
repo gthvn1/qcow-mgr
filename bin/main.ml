@@ -1,2 +1,2 @@
 let () = 
-  Hello_world.Hello.say "world"
+  Qcow.Hello.say "world"

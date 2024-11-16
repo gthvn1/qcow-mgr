@@ -1,4 +1,4 @@
 (executable
- (public_name hello_world)
+ (public_name qcow_info)
  (name main)
- (libraries hello_world))
+ (libraries qcow))
