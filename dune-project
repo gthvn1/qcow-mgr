@@ -1,9 +1,9 @@
 (lang dune 3.16)
-(name qcow_info)
+(name qcow-mgr)
 (generate_opam_files true)
 
 (package
- (name qcow_info)
+ (name qcow-mgr)
  (synopsis "Get information from a qcow file")
  (description "Get information from a qcow file")
  (depends ocaml dune))

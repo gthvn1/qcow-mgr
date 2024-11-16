@@ -1,4 +1,4 @@
 (executable
- (public_name qcow_info)
+ (public_name qcow-mgr)
  (name main)
  (libraries qcow))

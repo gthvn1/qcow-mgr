@@ -9,6 +9,6 @@
 
 - build: `dune build`
 - format: `dune fmt`, or also we can `dune build @fmt`
-- run: `dune exec qcow_info`
+- run: `dune exec qcow-mgr`
 - test: `dune runtest`
 - When developping I like running: `dune runtest --watch`
