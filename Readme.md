@@ -7,6 +7,8 @@
 
 ## Devel
 
+- **NOTE**: it is a work in progress... currently we are doing nothing except starting the project
+
 - build: `dune build`
 - format: `dune fmt`, or also we can `dune build @fmt`
 - run: `dune exec qcow-mgr`
